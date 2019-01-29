@@ -22,7 +22,9 @@ h5{
     font-size: 1em
 }
 .inah{
-    border-radius: 50%
+    border-radius: 50%;
+    right: 10dp;
+    position: relative
 }
 #right-col{
     color: #af5b4c
